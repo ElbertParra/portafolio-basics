@@ -29,17 +29,4 @@ Motor de comunicación en tiempo real para soporte y notificaciones.
 
 **Java · Spring WebSocket · STOMP · SockJS · PostgreSQL · JavaScript**
 
-## Publicación con GitHub Pages
 
-1. Crea un repositorio público llamado `portfolio`.
-2. Sube el contenido de este proyecto.
-3. En **Settings → Pages**, selecciona `Deploy from a branch`.
-4. Selecciona `main` y `/ (root)`.
-5. Guarda y espera el despliegue.
-
-## Antes de publicar
-
-- Reemplaza los enlaces de GitHub y LinkedIn por tus perfiles reales.
-- Añade tu PDF como `assets/Elbert_Parra_CV.pdf`.
-- Sustituye el correo de ejemplo por tu correo profesional.
-- Añade los enlaces reales a los repositorios y demos de cada proyecto.
