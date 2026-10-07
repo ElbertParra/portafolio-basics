@@ -2,6 +2,11 @@
 
 Portfolio personal de **Elbert Parra Vergara**, orientado a oportunidades **Junior Java Full Stack** y **Software Quality Assurance**.
 
+## Diseño
+Figma: https://www.figma.com/design/y33vMuOvZiT6i9kmhByiYV/Portafolio-UI-UX-Elbert-Parra?node-id=1-4&t=TcpXd3m17R3lq0D8-1
+
+Portafolio Desplegado: https://elbertparra.github.io/portafolio-basics
+
 ## Stack del portafolio
 
 - HTML5 semántico
